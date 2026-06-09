@@ -1,0 +1,390 @@
+
+
+
+#lg1{
+    background-color: black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    font-size: xx-large;
+    border-radius: 20px;
+
+    margin-bottom: 50px;
+background-image: linear-gradient(white, rgb(113, 173, 113) ,rgb(29, 29, 215),white);
+/* box-shadow:7px 7px  rgb(21, 233, 233); */
+}
+#lg2{
+    background-color: black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    color: white;
+        font-size: xx-large;
+border-radius: 20px;
+
+    padding-top: 100px;
+    margin-left: 350px;
+    margin-top: -348px;
+    background-image: linear-gradient(to left, red , orange,yellow,green,blue,violet);
+/* box-shadow: 0px 0px 20px 10px rgb(19, 242, 242); */
+}
+#lg3{
+   background-color: black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    color: white;
+        font-size: xx-large;
+color: white;
+    padding-top: 100px;
+    margin-left: 700px;
+    margin-top: -300px;
+    background-image: linear-gradient(to left top,blue ,aqua, yellow);
+/* box-shadow: 1px 5px 20px  5px rgb(221, 41, 161); */
+border-radius: 20px;
+}
+#lg4{
+   
+ background-color: black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    color: white;
+        font-size: xx-large;
+        color: black;
+        border-radius: 20px;
+
+
+
+    padding-top: 100px;
+    margin-left: 1050px;
+    margin-top: -300px;
+    background-image: linear-gradient(120deg, blue,lightblue,orange,pink,yellow,aqua,lightblue,blue);
+/* box-shadow: 1px 8px 20px  20px rgb(41, 191, 221); */
+
+}
+
+.section-2{
+    margin-top: 300px;
+}
+#Rl1{
+background-color: black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 50px;
+    color: black;
+    border-radius: 20px;
+
+font-family: arial;
+background-image: radial-gradient(white  ,rgb(52, 226, 52),rgb(25, 25, 241),white);
+}
+#Rl2{
+background-color: black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+
+    padding-top: 100px;
+    margin-left: 350px;
+    margin-top: -348px;
+    font-family: arial;
+    background-image:radial-gradient(circle 70px,rgb(228, 244, 16),rgb(7, 176, 243))
+
+
+}
+#Rl3{
+background-color: black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+
+    padding-top: 100px;
+    margin-left: 700px;
+    margin-top: -302px;
+    font-family: arial;
+        background-image:radial-gradient(ellipse 120px 80px ,red,rgb(175, 175, 211))
+
+
+
+}
+#Rl4{
+background-color: black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    border-radius: 20px;
+
+    color: white;
+    padding-top: 100px;
+    margin-left: 1100px;
+    margin-top: -300px;
+    font-family: arial;
+    background-image:radial-gradient(yellow,orange ,red , maroon)
+
+
+}
+.box-shadow{
+    margin-bottom: 100px;
+    background-image: url(./asset/images/img-2/about.png);
+    height: 400px;
+    margin-top: 100px;
+}
+#shadow-1{
+    width: 200px;
+    height: 150px;
+background-image: linear-gradient(white,rgb(186, 186, 220),white);
+    border: 1px solid burlywood;
+    margin-top: 100px;
+   margin-left: 0px;
+   border-radius: 20px;
+   box-shadow: 3px 3px rgb(17, 227, 227);
+padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+}
+#shadow-2{
+    width: 200px;
+    height: 150px;
+background-image: linear-gradient(white,rgb(229, 212, 180),white);
+    border: 1px solid burlywood;
+    margin-top: 100px;
+   margin-left: 250px;
+   border-radius: 20px;
+   margin-top: -180px;
+   box-shadow: 4px 4px 10px rgb(24, 246, 246);
+   padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+
+
+}
+#shadow-3{
+    width: 200px;
+    height: 150px;
+background-image: linear-gradient(white,rgb(156, 232, 232),white);
+box-shadow: 0px 0px 20px rgb(227, 246, 60);
+    border: 1px solid burlywood;
+    margin-top: 100px;
+   margin-left: 500px;
+   border-radius: 20px;
+   margin-top: -180px;
+   padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+
+
+}
+#shadow-4{
+    width: 200px;
+    height: 150px;
+background-image: linear-gradient(white,rgb(182, 248, 182),white);
+    border: 1px solid burlywood;
+    margin-top: 100px;
+    box-shadow: 0px 0px 20px 5px rgb(76, 245, 76);
+   margin-left: 760px;
+   border-radius: 20px;
+   margin-top: -180px;
+   padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+
+
+}
+#shadow-5{
+    width: 200px;
+    height: 150px;
+/* background-image: linear-gradient(white,rgb(248, 182, 237),white); */
+    border: 1px solid burlywood;
+    margin-top: 100px;
+   margin-left: 1010px;
+   border-radius: 20px;
+   margin-top: -180px;
+   background-color: white;
+   box-shadow: inset 10px 0px 50px rgb(255, 255, 0), inset 0px 15px 50px rgb(0, 255, 255);
+   padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+
+
+}
+#shadow-6{
+    width: 200px;
+    height: 150px;
+/* background-image: linear-gradient(white,rgb(248, 198, 182),white); */
+   background-color: white;    
+   border: 1px solid burlywood;
+   margin-top: 100px;
+   margin-left: 1260px;
+   border-radius: 20px;
+   margin-top: -182px;
+   box-shadow: inset 0px 0px 30px black;
+   padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+
+
+}
+.drop-shadow{
+    margin-bottom: 100px;
+    background-image: url(./asset/images/img-2/about.png);
+    height: 400px;
+}
+#D-shadow-1{
+     width: 200px;
+    height: 150px;
+background-image: linear-gradient(white,rgb(186, 186, 220),white);
+    border: 1px solid burlywood;
+    margin-top: 100px;
+   margin-left: 0px;
+   border-radius: 20px;
+padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+   filter:drop-shadow(3px 3px  rgb(24, 246, 246)) ;
+
+}
+#D-shadow-2{
+    width: 200px;
+    height: 150px;
+background-image: linear-gradient(white,rgb(229, 212, 180),white);
+    border: 1px solid burlywood;
+    margin-top: 100px;
+   margin-left: 250px;
+   border-radius: 20px;
+   margin-top: -180px;
+   padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+filter: drop-shadow(3px 3px 10px rgb(24,246,246));
+
+
+}
+#D-shadow-3{
+    width: 200px;
+    height: 150px;
+background-image: linear-gradient(white,rgb(156, 232, 232),white);
+    border: 1px solid burlywood;
+    margin-top: 100px;
+   margin-left: 500px;
+   border-radius: 20px;
+   margin-top: -180px;
+   padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+filter: drop-shadow( 0px 0px 20px rgb(227, 246, 60));
+
+
+
+}
+#D-shadow-4{
+    width: 200px;
+    height: 150px;
+background-image: linear-gradient(white,rgb(182, 248, 182),white);
+    border: 1px solid burlywood;
+    margin-top: 100px;
+   margin-left: 760px;
+   border-radius: 20px;
+   margin-top: -180px;
+   padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+filter: drop-shadow(5px 5px 10px rgb(0, 217, 255) )
+
+
+}
+#D-shadow-5{
+    width: 200px;
+    height: 150px;
+/* background-image: linear-gradient(white,rgb(248, 182, 237),white); */
+    border: 1px solid burlywood;
+    margin-top: 100px;
+   margin-left: 1010px;
+   border-radius: 20px;
+   margin-top: -180px;
+   background-color: white;
+   padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+filter: drop-shadow(0px 0px 15px yellow);
+
+
+}
+#D-shadow-6{
+    width: 200px;
+    height: 150px;
+/* background-image: linear-gradient(white,rgb(248, 198, 182),white); */
+   background-color: white;    
+   border: 1px solid burlywood;
+   margin-top: 100px;
+   margin-left: 1260px;
+   border-radius: 20px;
+   margin-top: -182px;
+   padding-top: 30px;
+padding-left: 30px;
+font-size: xx-large;
+font-family: arial;
+font-weight: 900;
+color: rgb(94, 93, 93);
+filter: drop-shadow(1px 1px 20px indigo);
+
+
+}
+#lbl-1{
+    font-family: arial;
+    font-size: xx-large;
+    font-weight: 800;
+}
+#lbl-2{
+    font-family: arial;
+    font-size: xx-large;
+    font-weight: 800;
+}#lbl-3{
+    font-family: arial;
+    font-size: xx-large;
+    font-weight: 800;
+}#lbl-4{
+    font-family: arial;
+    font-size: xx-large;
+    font-weight: 800;
+}
