@@ -388,6 +388,7 @@ filter: drop-shadow(1px 1px 20px indigo);
     font-size: xx-large;
     font-weight: 800;
 }
+/* start Filters Section */
 .grayscale{
 padding-left: 100px;
 }
@@ -456,7 +457,7 @@ padding-left: 100px;
 
   width: 250px;
   height: 200px;
-  filter: grayscale(20%);
+  filter: grayscale(25%);
 }
 #G-5:hover{
 
